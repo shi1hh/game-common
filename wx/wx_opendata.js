@@ -3,6 +3,4 @@ function say(){
     console.log("hey!");
 }
 
-export default {
-    say
-};
+module.exports=say;
